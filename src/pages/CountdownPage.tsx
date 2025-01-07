@@ -297,7 +297,7 @@ const CountdownPage = () => {
       )}
 
       <h1 className='text-md mt-5 font-light text-slate-300'>
-        Prepared by Kurt 😉😘
+        Prepared by Ejaa 😉😘
       </h1>
     </section>
   );
