@@ -167,7 +167,7 @@ const BirthdayPage = () => {
             </h1>
             <p className='mb-4 font-body'>
               Harap demi harap dilangitkan kembali dan semoga demi semoga
-              diucapkan dengan natang oleh manusia penduduk bumi yang
+              diucapkan dengan lantang oleh manusia penduduk bumi yang
               menyayangimu.
             </p>
             <p className='mb-4 font-body'>
